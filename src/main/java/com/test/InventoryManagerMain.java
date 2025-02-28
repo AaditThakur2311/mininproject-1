@@ -60,7 +60,7 @@ public class InventoryManagerMain {
 	
 			while (true) {
 				
-				System.out.println("\n ------- welcome to the inventory managment system-------");
+				System.out.println("\n ------- welcome to the inventory managment system-------1");
 				System.out.println(" 1. Manage products ");
 				System.out.println(" 2 - Manage Suppliers ");
 				System.out.println(" 3 - Manage transactions ");
